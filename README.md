@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## PYTHON FOR ALL
 
 You can use the [editor on GitHub](https://github.com/titanfist/python-codes/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
