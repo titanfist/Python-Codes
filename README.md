@@ -5,17 +5,29 @@ Hello Forks
 Note  : These Codes Include Algorithms and Data Structures for better Understanding of _PYTHON_
 
 ## Contents
+
 *1.Integer Reverse
+
 *2.Matrix
+
 *3.Finding Prime
+
 *4.Finding Armstrong Number
+
 *5.Fibonacci 
+
 *6.Factorial
+
 *2.Insetion Sort
+
 *3.Merge Sort
+
 *4.Quick Sort
+
 *5.Recursion
+
 *6.Back Tracking
+
 *7.Selection Sort
 
 
