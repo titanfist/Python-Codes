@@ -6,29 +6,33 @@ Note  : These Codes Include Algorithms and Data Structures for better Understand
 
 ## Contents
 
-*1.Integer Reverse
+Integer Reverse
 
-*2.Matrix
+Matrix
 
-*3.Finding Prime
+Finding Prime
 
-*4.Finding Armstrong Number
+Finding Armstrong Number
 
-*5.Fibonacci 
+Fibonacci 
 
-*6.Factorial
+Palindrome
 
-*2.Insetion Sort
+string swap
 
-*3.Merge Sort
+Factorial
 
-*4.Quick Sort
+Insetion Sort
 
-*5.Recursion
+Merge Sort
 
-*6.Back Tracking
+Quick Sort
 
-*7.Selection Sort
+Recursion
+
+Back Tracking
+
+Selection Sort
 
 
 ```markdown
