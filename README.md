@@ -3,6 +3,16 @@
 Hello Forks
 ## We have divided levels of Python Code , Beginner, Intermediate and last but not least **HARD**
 Note  : These Codes Include Algorithms and Data Structures for better Understanding of _PYTHON_
+
+## Contents
+1.Integer Reverse
+2.Matrix
+2.Insetion Sort
+3.Merge Sort
+4.Quick Sort
+5.Recursion
+6.Back Tracking
+
 ```markdown
 Hello world in python3
 ```
